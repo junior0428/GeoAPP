@@ -1,0 +1,42 @@
+#map {
+    height: 600px;
+    width: 700px;
+}
+
+#src {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    font-weight: bold;
+}
+
+#tipo {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: rgb(244, 244, 247);
+    padding: 7px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(8, 8, 8, 0.5);
+    font-weight: bold;
+}
+
+#ind {
+    font-weight: bold;
+    font-size: 35px;
+    padding: 8px;
+    color: #4A997E;
+    background-color:white;
+    
+}
+
+#rsrc {
+    font-Weight: bold;
+    color: #4A997E;
+    font-Size: 18px;
+    padding: 8px;
+}
